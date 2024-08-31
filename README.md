@@ -1,2 +1,7 @@
 # Struct2Vec
-Custom Implementation of Struct2Vec to generate node embeddings
+Custom Implementation of Struct2Vec to generate node embeddings <br>
+
+Custom implementation of *struc2vec* as described in :<br>
+> struc2vec: Learning Node Representations from Structural Identity.<br>
+> Leonardo F. R. Ribeiro, Pedro H. P. Saverese, Daniel R. Figueiredo.<br>
+> Knowledge Discovery and Data Mining, SigKDD, 2017.<br>
